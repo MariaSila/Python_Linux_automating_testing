@@ -1,0 +1,7 @@
+folder_in: /home/user/lecture/l_3/tst
+folder_out: /home/user/lecture/l_3/out
+folder_ext: /home/user/lecture/l_3/folder1
+folder_ext2: /home/user/lecture/l_3/folder2
+count: 5
+bs: 10M
+type: 7z
